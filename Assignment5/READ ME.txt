@@ -1,0 +1,4 @@
+I was not able to get the search results to be type casted from an ArrayList to the List that I
+created in the utilities package. At this point I have tried everything that I could think of and
+simply cannot get it to work. I accept whatever mark I receive on this assignment and will
+continue to work past the due date to get it working for my own benefit.
